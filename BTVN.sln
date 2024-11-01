@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN1", "BTVN1\BTVN1.csproj", "{3E25506F-9266-4878-99B1-91E6E0CC5DF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN2", "BTVN2\BTVN2.csproj", "{EC45F0D1-5787-4D44-A2EA-EAEDCB179B04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{3E25506F-9266-4878-99B1-91E6E0CC5DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E25506F-9266-4878-99B1-91E6E0CC5DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E25506F-9266-4878-99B1-91E6E0CC5DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC45F0D1-5787-4D44-A2EA-EAEDCB179B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC45F0D1-5787-4D44-A2EA-EAEDCB179B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC45F0D1-5787-4D44-A2EA-EAEDCB179B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC45F0D1-5787-4D44-A2EA-EAEDCB179B04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
