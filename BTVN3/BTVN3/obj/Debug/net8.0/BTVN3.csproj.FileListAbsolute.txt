@@ -1,0 +1,14 @@
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\bin\Debug\net8.0\BTVN3.exe
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\bin\Debug\net8.0\BTVN3.deps.json
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\bin\Debug\net8.0\BTVN3.runtimeconfig.json
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\bin\Debug\net8.0\BTVN3.dll
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\bin\Debug\net8.0\BTVN3.pdb
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\obj\Debug\net8.0\BTVN3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\obj\Debug\net8.0\BTVN3.AssemblyInfoInputs.cache
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\obj\Debug\net8.0\BTVN3.AssemblyInfo.cs
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\obj\Debug\net8.0\BTVN3.csproj.CoreCompileInputs.cache
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\obj\Debug\net8.0\BTVN3.dll
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\obj\Debug\net8.0\refint\BTVN3.dll
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\obj\Debug\net8.0\BTVN3.pdb
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\obj\Debug\net8.0\BTVN3.genruntimeconfig.cache
+D:\C#\Buoi1\BTVN\BTVN3\BTVN3\obj\Debug\net8.0\ref\BTVN3.dll
