@@ -1,0 +1,14 @@
+D:\C#\BTVN_4\BTVN_4\bin\Debug\net8.0\BTVN_4.exe
+D:\C#\BTVN_4\BTVN_4\bin\Debug\net8.0\BTVN_4.deps.json
+D:\C#\BTVN_4\BTVN_4\bin\Debug\net8.0\BTVN_4.runtimeconfig.json
+D:\C#\BTVN_4\BTVN_4\bin\Debug\net8.0\BTVN_4.dll
+D:\C#\BTVN_4\BTVN_4\bin\Debug\net8.0\BTVN_4.pdb
+D:\C#\BTVN_4\BTVN_4\obj\Debug\net8.0\BTVN_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BTVN_4\BTVN_4\obj\Debug\net8.0\BTVN_4.AssemblyInfoInputs.cache
+D:\C#\BTVN_4\BTVN_4\obj\Debug\net8.0\BTVN_4.AssemblyInfo.cs
+D:\C#\BTVN_4\BTVN_4\obj\Debug\net8.0\BTVN_4.csproj.CoreCompileInputs.cache
+D:\C#\BTVN_4\BTVN_4\obj\Debug\net8.0\BTVN_4.dll
+D:\C#\BTVN_4\BTVN_4\obj\Debug\net8.0\refint\BTVN_4.dll
+D:\C#\BTVN_4\BTVN_4\obj\Debug\net8.0\BTVN_4.pdb
+D:\C#\BTVN_4\BTVN_4\obj\Debug\net8.0\BTVN_4.genruntimeconfig.cache
+D:\C#\BTVN_4\BTVN_4\obj\Debug\net8.0\ref\BTVN_4.dll
